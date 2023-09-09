@@ -1,0 +1,19 @@
+body {
+  /* background-color: #242424;
+  color: #fafafa; */
+  padding: 12px;
+}
+
+#root {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+button {
+  background: none;
+  border: none;
+  outline: none;
+}
